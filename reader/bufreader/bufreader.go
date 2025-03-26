@@ -21,7 +21,7 @@ import (
 
 	"github.com/axgle/mahonia"
 
-	"github.com/qiniu/log"
+	// "github.com/qiniu/log"
 
 	"github.com/qiniu/logkit/conf"
 	"github.com/qiniu/logkit/reader"
